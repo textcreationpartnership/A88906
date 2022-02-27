@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Major Generall Massey. And eighty other English officers and commanders ingaged with the kingdom of Scotland, in behalf of their Presbyterian brethren, in England, Ireland, and the principallitie of Wales. Declaring the grounds and reasons moving them to take up arms in the kingdom of Scotland; admonishing all conscientious Presbyterians not to apostize from their first principles, nor adhere, engage, or take up arms with the rebells at Westminster. Dated at Orkney Island, March 29. 1650.</title>
+            <author>Massey, Edward, Sir, 1619?-1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88906</idno>
+            <idno type="STC">Wing M1034</idno>
+            <idno type="STC">Thomason E597_4</idno>
+            <idno type="STC">ESTC R206290</idno>
+            <idno type="EEBO-CITATION">99865464</idno>
+            <idno type="PROQUEST">99865464</idno>
+            <idno type="VID">165588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165588)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E597[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Major Generall Massey. And eighty other English officers and commanders ingaged with the kingdom of Scotland, in behalf of their Presbyterian brethren, in England, Ireland, and the principallitie of Wales. Declaring the grounds and reasons moving them to take up arms in the kingdom of Scotland; admonishing all conscientious Presbyterians not to apostize from their first principles, nor adhere, engage, or take up arms with the rebells at Westminster. Dated at Orkney Island, March 29. 1650.</title>
+                  <author>Massey, Edward, Sir, 1619?-1674?</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165588:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 120 -->
+            <p>THE DECLARATION Of Major Generall MASSEY.</p>
+            <p>AND <hi>Eighty</hi> other Engliſh Officers and Commanders <hi>Ingaged</hi> with the Kingdom of SCOTLAND, in behalf of their <hi>Preſbyte<g ref="char:EOLhyphen"/>rian</hi> Brethren, in ENGLAND, IRELAND, and the Principallitie of WALES.</p>
+            <p>Declaring the <hi>Grounds</hi> and <hi>Reaſons</hi> moving them to take up Arms in the Kingdom of SCOTLAND; admoniſhing all conſciencious Presbyterians not to apoſtize from their firſt Principles, nor Adhere, Engage, or take up Arms with the <hi>Rebells</hi> at <hi>Weſtminſter.</hi>
+            </p>
+            <p>Dated at <hi>Orkney Iſland, March</hi> 29. 1650.</p>
+            <p>
+               <hi>Printed</hi> in the Yeer, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165588:2"/>
+            <!-- PDF PAGE 121 -->
+            <pb n="3" facs="tcp:165588:2"/>
+            <!-- PDF PAGE 121 -->
+            <head>A DECLARATION Of Major Generall MASSEY.</head>
+            <head type="sub">AND <hi>Eighty</hi> other Engliſh Officers and Commanders <hi>Ingaged</hi> with the Kingdom of SCOTLAND, in behalf of their <hi>Preſbyte<g ref="char:EOLhyphen"/>rian</hi> Brethren, in ENGLAND, IRELAND, and the Principallitie of WALES.</head>
+            <opener>
+               <salute>Dear Countreymen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S we are all Members of one Body, ſo we ought all to be governed by one Head, and made capable of one anothers ſufferings; You cannot be ignorant what peſtilent Humors have got predominance in the <hi>Body Politique</hi> of our native Country, corrupting the very heart of all good Government, and cauſing a <hi>Blody iſſue</hi> to be made in the very bowells of a Flouriſhing land, by unhapy emulations and <hi>civill diſſentions</hi> ariſing rather from a ſurfeit, and oppulen<g ref="char:EOLhyphen"/>cy of aboundance of Peace, and bleſſings, then from any juſt cauſe of our owne; I hope there is none amongſt you ſo for<g ref="char:EOLhyphen"/>getfull as not to remember your <hi>Solemn League and Covenant</hi> made with ſo many imprecations, and ratified, ſealed and deli<g ref="char:EOLhyphen"/>vered in the preſence of God and his Angels, beſides all other
+<pb n="4" facs="tcp:165588:3"/>
+               <!-- PDF PAGE 122 -->our <hi>Oaths</hi> and Proteſtations, as ſo many ſacred <hi>bonds</hi> and Ob<g ref="char:EOLhyphen"/>ligations binding our Conſciences to the preſervation of the true Proteſtant Religion, the Kings Perſon, the Rights and Priviledges of <hi>Parliament,</hi> and Liberty of the Subject, all which we ever have done, and ſtill will by Gods help preſerve with the ſame care as we do our own ſouls; yet we are not un<g ref="char:EOLhyphen"/>ſenſible of the many callumnies of our reproachfull enemies, that unjuſtly brand us, for at firſt managing an ungodly deſign for the Eradication of Monarchy, and rooting out the KING and his <hi>Poſterity,</hi> the better to ſubvert all good Government both in Church and Common-wealth.</p>
+            <p>To cleer our ſelves from theſe foul-mouth'd aſperſions, and notoriouſly known ſcandalls ſo wickedly fathered on us and our Brethren, we have thought it neceſſary to manifeſt our re<g ref="char:EOLhyphen"/>all Intentions in this our <hi>Declaration</hi> to the whole world of the integrity and uprightneſs of our hearts, to ſhew what loathing and deteſtation we have of all ſuch <hi>Hypocriſy</hi> and deep <hi>Diſſimulation,</hi> leaſt by our ſilence we might be thought guilty, or to have fellowſhip with theſe ungodly workers of iniquity, whoſe deſperate, rebellious, pernicious and de<g ref="char:EOLhyphen"/>ſtructive <hi>Principles</hi> we are ſo farre from owning, or ſiding with, that we have taken up Armes againſt them, and are re<g ref="char:EOLhyphen"/>ſolved, to the laſt drop of our bloods to oppoſe that Tyran<g ref="char:EOLhyphen"/>nors Army now under the Conduct of the Lord Generall <hi>Fairfax,</hi> or Lieftenant Generall <hi>Cromwell,</hi> or any with whom they are aſſociated or combined, falſly ſtiling themſelves <hi>The ſupream Authority of the Nation, the Commons of</hi> England <hi>in Parliament aſſembl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> or any of their upholders, Aiders or Ab<g ref="char:EOLhyphen"/>bettors that now aſſume the <hi>Ligiſtitive Power</hi> of the King<g ref="char:EOLhyphen"/>dome; have murdered the King, and diſabled the Houſe of Lords from their right of ſitting as a Houſe of <hi>Peers,</hi> or for ever having any <hi>Voice</hi> or <hi>Votes</hi> in Parliament, any more then as Members of the <hi>Commons Houſe;</hi> having by their pretended <hi>Power</hi> conſtituted a Tyrannicall <hi>Counſell</hi> of <hi>State,</hi> and to enſlave and vaſſallage the whole Nation, have ſince erected a <hi>High Court of Juſtice,</hi> thinking by that to fright <hi>Free People</hi> into <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miſſion to their new mock-<hi>Authority,</hi> by which illegall <hi>Court</hi> they intend, (by the ſame way as they before murdered their lawfull King, now to gorge their libidinous
+<pb n="5" facs="tcp:165588:3"/>
+               <!-- PDF PAGE 122 -->and murtherous appetites with the blood of his beſt ſubjects, that ſo they may dye their black ſouls (if it were poſſible) in<g ref="char:EOLhyphen"/>to a deeper dye of <hi>innocent blood,</hi> to uphold their wicked Ty<g ref="char:EOLhyphen"/>ranny, Democraſy, and <hi>Annarchicall Government;</hi> Neither are they content with the <hi>blood</hi> of their King, but they have diſ<g ref="char:EOLhyphen"/>inherrited the Prince from his unqueſtionable and hereditary ſucceſſion to the Crown, and enacted all thoſe <hi>Traytors,</hi> and to die without mercy, That ſhall Proclaime, Relieve, repaire to, aide or aſſiſt Him either with men, money or Ammuniti<g ref="char:EOLhyphen"/>on, or ſo much as hold Intelligence with their Liege Lord and Soveraigne, for which they have direct warrant from God, and are bound to that duty by their ſeverall Oaths, and the lawes both of God and man; Neither hath their <hi>malice</hi> an<g ref="char:EOLhyphen"/>chored here; but they have forced upon the <hi>People</hi> a moſt dangerous and ſinfull <hi>Ingagement,</hi> To be true and faithfull to a Government that they ſhall never know any <hi>bounds</hi> to, and to binde them to yeeld <hi>Fealty</hi> and <hi>Homage</hi> to them that are but their fellow Subjects, and by the Laws of God, and the Land is due to the KING only, and to none but ſuch as de<g ref="char:EOLhyphen"/>rive their Authority from him, and therefore cannot be <hi>ſub<g ref="char:EOLhyphen"/>ſcribed</hi> without wilfull perjury to God, and willfull <hi>Treaſon</hi> to the <hi>Law;</hi> aboliſhing a long ſetled <hi>Government,</hi> that we were to <hi>ſubmit to for the Lords ſake,</hi> not in ſtead of <hi>reforming</hi> to be aboliſhed, but prayed for; that under it we may lead <hi>quiet</hi> and peaceable lives in all godlineſſe and honeſty: Wherefore my<g ref="char:EOLhyphen"/>ſelf and about 80 <hi>Engliſh Officers</hi> more have in proſecution of our Covenant, and ſeverall Oaths, (not onely in behalf of our own Nation, but the Kingdom of <hi>Scotland</hi> alſo,) have received our Commiſſions from King <hi>Charls</hi> the Second, in whoſe Right, as well as reſtoring the <hi>People</hi> to their ancient Government by KING, LORDS and <hi>Commons</hi> from any Ty<g ref="char:EOLhyphen"/>ranny in either, we have all drawn our ſwords, and vowed never to put them up again (unleſſe His Majeſty command the ſame) untill we have Reſtored our King to His Rights, the <hi>Parliament</hi> to it's loſt <hi>Priviledges,</hi> and the Subiect to his Li<g ref="char:EOLhyphen"/>berty, and taken off the ſcandall laid on us and our Religion, by bringing all Traytors and Tyrants to Juſtice for what Treaſons they have committed againſt either; which is the ſole cauſe of our Undertakings.</p>
+            <p>
+               <pb n="6" facs="tcp:165588:4"/>
+               <!-- PDF PAGE 123 -->
+Therefore we deſire all our <hi>Presbyterian Brethren,</hi> and the reſt of our friends and Allies in <hi>England,</hi> not to be diſcoura<g ref="char:EOLhyphen"/>ged by any threats or force of the Enemy, but couragiouſly proſecute their firſt <hi>Principles,</hi> and rather ſuffer with patience, and bear <hi>Chriſts Croſſe</hi> with joy, and a good Conſcience, then to ſuffer themſelves to be ſubborned by a crew of cruell Ty<g ref="char:EOLhyphen"/>rants, that rule by their own Wills, and ſeek to load the ſhame and guilt of their own ſinfull actions upon your Conſciences, that ſo you might become co-partners with them in their <hi>Trade</hi> of <hi>wickedneſſe,</hi> and ſo to be made Heirs to ſuch Puniſh<g ref="char:EOLhyphen"/>ments as neceſſarily fall to be the portion of ſuch children of <hi>diſobedience;</hi> But we hope better of you <hi>(Brethren)</hi> and wiſh you not to pretend ignorance in theſe <hi>things,</hi> leaſt you thruſt your ſelves willfully out of His Majeſties Protection; but re<g ref="char:EOLhyphen"/>lying on your Covenant, His Majeſty will be as tender of your welfare, as of his own life; knowing, <hi>that to destroy his own ſub<g ref="char:EOLhyphen"/>jects, is to deminish his own ſtrength;</hi> aſſuring his good People, that it is not his intention to yoake them to a <hi>Tyrannicall Go<g ref="char:EOLhyphen"/>vernment,</hi> nor to make uſe of <hi>Forreine Aide</hi> a jot longer then he is neceſſitated for the recovering his <hi>just rights,</hi> as well as his Peoples <hi>Liberties,</hi> and to adminiſter <hi>Juſtice</hi> on the inhu<g ref="char:EOLhyphen"/>mane Murderers of His dear Father, whoſe <hi>blood cryes to us all for revenge</hi> on the Actors of that bloody and inhmane <hi>Tragae<g ref="char:EOLhyphen"/>dy;</hi> which are the ſole ends of his taking up Arms, and of our aſſiſting <hi>Him.</hi>
+            </p>
+            <p>Wherefore (in his Maieſties behalf) wee are commanded to declare;</p>
+            <p>That whoſoever of you (that have ſtood to your <hi>Covenant</hi>) and ſhall come in unto us at the Approach of <hi>His Majeſties Armies into England,</hi> ſhall not only obtain an <hi>Act of Oblivion</hi> for what is paſt, but ſhall have Protection for themſelves, and all ſuch money or goods they ſhal bring with them; and who<g ref="char:EOLhyphen"/>ever ſhall imploy any Horſe, Men, Arms, or Warlike proviſions whatſoever, ſhall receive ſuch full aſſurance of reall ſatisfacti<g ref="char:EOLhyphen"/>on, as other his Commanders and ſouldiers have, with an ad<g ref="char:EOLhyphen"/>dition of ſuch <hi>Honors,</hi> and other <hi>rewards</hi> from <hi>His Majesty,</hi> as your ſeverall merits, or ſervices ſhall deſerve; And in this our ſo Juſt and Pious Undertakings we make no doubt we ſhall not only be ſeconded with the bleſſing of God, but have
+<pb n="7" facs="tcp:165588:4"/>
+               <!-- PDF PAGE 123 -->the Prayers, as well as Aide and Aſſiſtance of all honeſt men, to recover <hi>His</hi> Maieſties Rights, eſtabliſh true Religion, the Priviledge of Parliament, and the Subiects Liberty, againſt the oppoſition of men or Devils; and as we really and cordially (according to our Covenant, and all thoſe <hi>ſacred bonds</hi> that are upon us; intend the ſame, without any other ſelf or <hi>by-ends</hi> ſo<g ref="char:EOLhyphen"/>ever, tending to the leaſt prejudice of our Brethren, ſo we pray the Bleſſing of God may attend us, and if otherwiſe, That all the <hi>Curſes</hi> in his holy <hi>Book</hi> may be the <hi>Portion</hi> of us, our Wives and Children for ever.</p>
+            <closer>
+               <dateline>From Orkney Iland in the Kingdom of Scotland
+<date>March 29. 1650.</date>
+               </dateline>
+               <signed>
+                  <hi>I remaine</hi> Your affectionate friend, and lover of the Kingdoms Peace, and Subjects Liberty, <hi>MASSEY.</hi>
+               </signed>
+
+            </closer>
+            <postscript>
+               <p>For. Mr. <hi>J. G.</hi> 123. to be Communicated to our Friends in <hi>London</hi> and elſewhere.</p>
+            </postscript>
+            <postscript>
+               <p>
+                  <hi>Signed by</hi> 80 Engliſh Officers, who have all taken up Arms for his Sacred <hi>Majeſty.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
